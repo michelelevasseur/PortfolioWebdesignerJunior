@@ -114,7 +114,7 @@ hr {/* trait sous les titres*/
     text-align: center;  
     text-shadow: 1px 1px 1px red, 0 0 1em #dd3726, 0 0 0.2em #dd3726 ; 
     z-index: 1;
-    animation:colorchange 15s infinite alternate;/* mise en place d'une amimation de changement e couleur sur le titre "Mon Portfolio"  */
+    animation:colorchange 15s infinite alternate;/* mise en place d'une amimation de changement de couleur sur le titre "Mon Portfolio"  */
 }
 @keyframes colorchange { /* cadences et couleurs*/
     0% {
