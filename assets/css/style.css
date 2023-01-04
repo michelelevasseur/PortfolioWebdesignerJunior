@@ -9,13 +9,14 @@
     src: url(../Fonts/BarokahSignatureRegular-PK15Z.ttf);
 }
 /* AJOUT D UNE IMAGE DE FOND  */
-/*body{
-    background-image: url(../Img/Bannieres/fondFloral-GdFormat-1980-5000.png) ;
+body{
+    overflow : hidden;
+   /* background-image: url(../Img/Bannieres/fondFloral-GdFormat-1980-5000.png) ;
     background-repeat: no-repeat;
     background-size: cover;
-    position: absolute;
+    position: absolute;*/
     width:100%;
-}*/
+}
 /*--PAGE --MON PORTFOLIO--*/  
 
 /* AJOUT D UNE BARRE DE NAVIGATION  */
