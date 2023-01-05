@@ -10,7 +10,7 @@
 }
 /* AJOUT D UNE IMAGE DE FOND  */
 body{
-    overflow : hidden;
+    overflow-x : hidden;
    /* background-image: url(../Img/Bannieres/fondFloral-GdFormat-1980-5000.png) ;
     background-repeat: no-repeat;
     background-size: cover;
